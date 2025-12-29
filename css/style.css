@@ -1,0 +1,38 @@
+body {
+  font-family: 'Inter', sans-serif;
+  padding-top: 70px;
+}
+
+h1, h2, h5 {
+    font-family: 'Poppins', snas-serif;
+}
+
+.hero-section {
+    min-height: 90vh;
+}
+
+.cta-section {
+    padding: 80px 0;
+    background: linear-gradient(135deg, #2EC4B6, #6C63FF);
+}
+
+.page-header {
+    padding: 120px 0 60px;
+    background: #f5f7fa;
+}
+
+.project-card img {
+    height: 220px; 
+    object-fit: cover;
+}
+
+/* project-details-css */
+.project-hero {
+  padding: 140px 0 80px;
+  background: linear-gradient(135deg, #f5f7fa, #e8ecf3);
+}
+
+.project-hero h1 {
+  font-family: 'Poppins', sans-serif;
+}
+
